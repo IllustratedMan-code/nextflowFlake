@@ -1,0 +1,2 @@
+2022-10-13 16:32:21	4.5s	cheesy_lamarck	ERR	89df0ea572017f5c87c426919dbe9ad8	c7099d4d-47ac-4d0c-b43f-4e3dd65f486d	/nix/store/62qfl23iy1m9fzb5l8p0pqgvbby50b0p-nextflow/bin/.nextflow-wrapped run main.nf
+2022-10-13 16:34:36	5.7s	kickass_spence	OK	55ad3e0432d28cc019ec58377ad735c3	7939053a-0137-42c9-91a0-9cea975433b1	/nix/store/62qfl23iy1m9fzb5l8p0pqgvbby50b0p-nextflow/bin/.nextflow-wrapped run tests/main.nf
