@@ -13,7 +13,7 @@
 let
   nextflow = stdenv.mkDerivation rec {
     name = "nextflow";
-    version = 22.10 .0;
+    version = "22.10.0";
     src = fetchurl {
       url = "https://github.com/nextflow-io/nextflow/releases/download/v${version}/nextflow-${version}-all";
       sha256 = "sha256-as6ovSH39msTY+75AM1pbZUj0rnttTMnlA8JMYnBU14=";
