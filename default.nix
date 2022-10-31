@@ -16,7 +16,7 @@ let
     version = "22.10.0";
     src = fetchurl {
       url = "https://github.com/nextflow-io/nextflow/releases/download/v${version}/nextflow-${version}-all";
-      sha256 = "sha256-as6ovSH39msTY+75AM1pbZUj0rnttTMnlA8JMYnBU14=";
+      sha256 = "sha256-pxS+68tUTWwUAoYhk0CpRA1BLSrVemkd4PBhBoQgToM=";
     };
     dontUnpack = true;
     nativeBuildInputs = [ makeWrapper ];
